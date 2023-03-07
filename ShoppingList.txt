@@ -1,0 +1,7 @@
+groceries
+cheese
+milk
+chemistry
+soap
+automotive
+windshield washer fluid
